@@ -7,4 +7,4 @@
 Our bioassay is going to focus on the contamination and remediation of Uranium. Further project details are soon to follow.
 
 
-Check out our website here: [theoranium of uranium] (https://theoraniumofuranium.weebly.com/)
+Check out our website here: [theoranium of uranium](https://theoraniumofuranium.weebly.com/)
